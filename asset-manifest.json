@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/woo-web-app/static/css/main.acc688c0.css",
-    "main.js": "/woo-web-app/static/js/main.41cbb1ed.js",
+    "main.css": "/woo-web-app/static/css/main.99c69ed8.css",
+    "main.js": "/woo-web-app/static/js/main.16299bbf.js",
     "static/media/album-1-300x300.jpg": "/woo-web-app/static/media/album-1-300x300.7049b6e16b77ea667470.jpg",
     "index.html": "/woo-web-app/index.html",
-    "main.acc688c0.css.map": "/woo-web-app/static/css/main.acc688c0.css.map",
-    "main.41cbb1ed.js.map": "/woo-web-app/static/js/main.41cbb1ed.js.map"
+    "main.99c69ed8.css.map": "/woo-web-app/static/css/main.99c69ed8.css.map",
+    "main.16299bbf.js.map": "/woo-web-app/static/js/main.16299bbf.js.map"
   },
   "entrypoints": [
-    "static/css/main.acc688c0.css",
-    "static/js/main.41cbb1ed.js"
+    "static/css/main.99c69ed8.css",
+    "static/js/main.16299bbf.js"
   ]
 }
